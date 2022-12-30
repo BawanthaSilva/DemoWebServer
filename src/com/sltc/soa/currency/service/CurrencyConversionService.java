@@ -3,13 +3,7 @@ package com.sltc.soa.currency.service;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by IntelliJ IDEA.<br/>
- * User: Thilanka<br/>
- * Date: 12/21/2022<br/>
- * Time: 9:24 AM<br/>
- * To change this template use File | Settings | File Templates.
- */
+
 public class CurrencyConversionService {
 
     private static Map<String, Double> rates = new HashMap<>();
